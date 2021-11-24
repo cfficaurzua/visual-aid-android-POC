@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">visual-aid</string>
+    <string name="none_paired">No hay dispositivos emparejados</string>
+    <string name="none_found">No se encontraron dispositivos</string>
+</resources>
